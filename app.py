@@ -1,5 +1,5 @@
 def ddd():
     print("yessss")
 
-ddd()
 
+ddd()
