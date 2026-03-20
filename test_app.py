@@ -1,5 +1,5 @@
 # test_app.py
-from app import my_function
+from app import ddd
 
 
 def test_my_function():
